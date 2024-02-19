@@ -33,8 +33,12 @@ This folder contains necessary libraries for the implementation of a shared memo
 ## Publications
 For more information regarding the F-VESPA algorithm, the reader is referred to the following publications:
 
-**[Chrysostomos Karakasis and Panagiotis Arteamiadis, "F-VESPA: A Kinematic-based Algorithm for Real-time Heel-strike Detection During Walking." 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2021.](https://doi.org/10.1109/IROS51168.2021.9636335)**
+**[Chrysostomos Karakasis and Panagiotis Artemiadis, "F-VESPA: A Kinematic-based Algorithm for Real-time Heel-strike Detection During Walking." 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2021.](https://doi.org/10.1109/IROS51168.2021.9636335)**
 
-**[Chrysostomos Karakasis and Panagiotis Arteamiadis, "Real-time kinematic-based detection of foot-strike during walking." Journal of Biomechanics 129 (2021).](https://doi.org/10.1016/j.jbiomech.2021.110849)**
+**[Chrysostomos Karakasis and Panagiotis Artemiadis, "Real-time kinematic-based detection of foot-strike during walking." Journal of Biomechanics 129 (2021).](https://doi.org/10.1016/j.jbiomech.2021.110849)**
+
+
+
+https://github.com/HORC-Lab/F-VESPA/assets/95447396/f3d42c94-df31-4e23-a15a-95fa43e21106
 
 
