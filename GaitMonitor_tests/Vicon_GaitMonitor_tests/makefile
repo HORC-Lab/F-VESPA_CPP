@@ -4,7 +4,7 @@ CC = clang++
 CFLAGS = -std=c++14 -Wall
 
 # Setting up the project directory path and vpath
-PROJDIR = ../../# Project directory path
+PROJDIR = ../..# Project directory path
 VPATH = $(PROJDIR)# Set the vpath to the project directory so that make checks there for source files
 LIBDIR = $(PROJDIR)/include/Vicon/lib
 LIBRARY = -L$(LIBDIR) -lViconDataStreamSDK_CPP

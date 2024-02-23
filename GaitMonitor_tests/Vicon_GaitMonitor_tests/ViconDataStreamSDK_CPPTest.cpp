@@ -8,8 +8,8 @@
 // without the written permission of the copyright owner.
 //
 ///////////////////////////////////////////////////////////////////////////////
-#include "../include/Vicon/inc/DataStreamClient.h"
-#include "../../../util/MemManager.h"
+#include "include/Vicon/inc/DataStreamClient.h"
+#include "util/MemManager.h"
 
 #include <cassert>
 #include <chrono>
